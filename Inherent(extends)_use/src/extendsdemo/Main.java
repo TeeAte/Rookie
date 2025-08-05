@@ -11,5 +11,9 @@ public class Main {
         System.out.println(t.getSex());
         System.out.println(t.getSkill()+"\n");
         t.show();
+
+        System.out.println(t);//加了toString输出
+
+
     }
 }

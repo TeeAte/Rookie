@@ -1,8 +1,8 @@
 package extendsdemo;
 //父类
 public class People {
-    private String name;
-    private  String sex;
+    public String name;
+    public   String sex;
     String me ="fu";
 
     public People(String name,String sex){
