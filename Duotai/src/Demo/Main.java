@@ -1,7 +1,5 @@
 package Demo;
-
 import lombok.val;
-
 import java.util.Scanner;
 
 public class Main {
