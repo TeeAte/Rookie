@@ -21,9 +21,6 @@ public class Main {
             case Left -> System.out.println("向左移动");
             case Right -> System.out.println("向右移动");
             case null, default -> System.out.println("无响应");
-
-
-
         }
 
     }
