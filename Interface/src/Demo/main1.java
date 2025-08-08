@@ -13,6 +13,7 @@ public class main1 {
 
         cdi.printAll();
         cdi.printAvgScore();
+        cdi.go();
 
     }}
 
