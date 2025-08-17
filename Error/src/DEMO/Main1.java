@@ -1,10 +1,10 @@
-package d1;
+package DEMO;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class main1 {
+public class Main1 {
     public static void main(String[] args) throws ParseException {
         show("2025-05-15 22:27:44");
 
@@ -12,7 +12,7 @@ public class main1 {
             show("2025-05-15 ");
         }
         catch (ParseException e) {//捕获异常
-            System.out.println("程序出错了！");
+            System.out.println("程序出错了！格式错了");
         }
     }
 
