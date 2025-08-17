@@ -1,5 +1,5 @@
 package DEMO;
-
+// 异常处理：try-catch-finally
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -12,7 +12,8 @@ public class Main1 {
             show("2025-05-15 ");
         }
         catch (ParseException e) {//捕获异常
-            System.out.println("程序出错了！格式错了");
+            e.printStackTrace();
+            System.out.println("程序出错了！");
         }
     }
 

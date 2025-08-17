@@ -1,5 +1,5 @@
 package DEMO;
-
+//运行时异常
 public class Main2 {
     public static void main(String[] args) {
         System.out.println("程序开始执行");
