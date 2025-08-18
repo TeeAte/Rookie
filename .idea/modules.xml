@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/CodeBlock/CodeBlock.iml" filepath="$PROJECT_DIR$/CodeBlock/CodeBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Error/Error.iml" filepath="$PROJECT_DIR$/Error/Error.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genericity/Genericity.iml" filepath="$PROJECT_DIR$/Genericity/Genericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inherent(extends)_use/Inherent(extends)_use.iml" filepath="$PROJECT_DIR$/Inherent(extends)_use/Inherent(extends)_use.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />

@@ -1,4 +1,4 @@
-package demo;
+package Interface_demo;
 
 public class main1 {
 //lambda表达式即函数式接口
