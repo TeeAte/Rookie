@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class_use/Class_use.iml" filepath="$PROJECT_DIR$/Class_use/Class_use.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeBlock/CodeBlock.iml" filepath="$PROJECT_DIR$/CodeBlock/CodeBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Error/Error.iml" filepath="$PROJECT_DIR$/Error/Error.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Genericity/Genericity.iml" filepath="$PROJECT_DIR$/Genericity/Genericity.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Multi_Tai/Multi_Tai.iml" filepath="$PROJECT_DIR$/Multi_Tai/Multi_Tai.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rookie.iml" filepath="$PROJECT_DIR$/Rookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleInstance/SingleInstance.iml" filepath="$PROJECT_DIR$/SingleInstance/SingleInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
     </modules>
